@@ -1,3 +1,5 @@
+#TS-Plugins-API-21
+
 ! DISCLAIMER|DISCLAIMER|DISCLAIMER|DISCLAIMER
 ! //|||||||||||||||||||||||||||||||||||||||||\\
 ! || Most of these Plugins are not mine, I   ||
