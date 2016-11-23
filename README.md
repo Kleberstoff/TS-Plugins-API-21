@@ -13,5 +13,5 @@
 ### Contact me:
 ### Keybase: https:keybase.io/kleberstoff
 ### Discord: Kleberstoff#5914
-### Email: admin@kleberstoff.xyz1
+### Email: admin@kleberstoff.xyz
 ###
