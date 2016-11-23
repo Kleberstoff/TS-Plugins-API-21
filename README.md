@@ -14,4 +14,3 @@
 ! Keybase: https:keybase.io/kleberstoff
 ! Discord: Kleberstoff#5914
 ! Email: admin@kleberstoff.xyz
- 
