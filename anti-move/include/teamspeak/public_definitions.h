@@ -1,7 +1,7 @@
 #ifndef PUBLIC_DEFINITIONS_H
 #define PUBLIC_DEFINITIONS_H
 
-#include "C:\Users\justa\Desktop\anti-move\include\teamlog\logtypes.h"
+#include "teamlog\logtypes.h"
 
 //limited length, measured in characters
 #define TS3_MAX_SIZE_CHANNEL_NAME 40
