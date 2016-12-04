@@ -1,7 +1,7 @@
 /*
 * TS3MassMover - Teamspeak 3 Client Plugin
 *
-* Copyright (c) 2010-2015 Stefan Martens, Mr. S // Updated to API 21 by Kleberstoff
+* Copyright (c) 2010-2015 Stefan Martens, Mr. S // Updated to APU
 */
 
 #if (defined(WIN32) || defined(WIN64) || defined(_WIN32) || defined(_WIN64)) && !defined(WINDOWS)
@@ -30,14 +30,14 @@
 #include <map>
 #include <fstream>
 #include <sstream>
-#include "teamspeak/public_errors.h"
-#include "teamspeak/public_errors_rare.h"
-#include "teamspeak/public_definitions.h"
-#include "teamspeak/public_rare_definitions.h"
-#include "teamspeak/clientlib_publicdefinitions.h"
-#include "ts3_functions.h"
-#include "plugin.h"
-#include "pluginversion.h"
+#include "C:\Users\justa\Desktop\mass-mover api 21\include\teamspeak\public_errors.h"
+#include "C:\Users\justa\Desktop\mass-mover api 21\include\teamspeak\public_errors_rare.h"
+#include "C:\Users\justa\Desktop\mass-mover api 21\include\teamspeak\public_definitions.h"
+#include "C:\Users\justa\Desktop\mass-mover api 21\include\teamspeak\public_rare_definitions.h"
+#include "C:\Users\justa\Desktop\mass-mover api 21\include\teamspeak\clientlib_publicdefinitions.h"
+#include "C:\Users\justa\Desktop\mass-mover api 21\include\ts3_functions.h"
+#include "C:\Users\justa\Desktop\mass-mover api 21\src\plugin.h"
+#include "C:\Users\justa\Desktop\mass-mover api 21\src\pluginversion.h"
 
 static struct TS3Functions ts3Functions;
 

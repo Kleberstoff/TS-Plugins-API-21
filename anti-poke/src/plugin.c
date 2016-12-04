@@ -12,14 +12,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <time.h>
 #include <assert.h>
-#include "teamspeak/public_errors.h"
-#include "teamspeak/public_errors_rare.h"
-#include "teamspeak/public_definitions.h"
-#include "teamspeak/public_rare_definitions.h"
-#include "teamspeak/clientlib_publicdefinitions.h"
-#include "ts3_functions.h"
+#include "C:\Users\justa\Desktop\anti-poke\include\teamspeak/public_errors.h"
+#include "C:\Users\justa\Desktop\anti-poke\include\teamspeak/public_errors_rare.h"
+#include "C:\Users\justa\Desktop\anti-poke\include\teamspeak/public_definitions.h"
+#include "C:\Users\justa\Desktop\anti-poke\include\teamspeak/public_rare_definitions.h"
+#include "C:\Users\justa\Desktop\anti-poke\include\teamspeak/clientlib_publicdefinitions.h"
+#include "C:\Users\justa\Desktop\anti-poke\include\ts3_functions.h"
 #include "plugin.h"
 
 int kickdisabled = 0;

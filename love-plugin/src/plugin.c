@@ -9,14 +9,13 @@
 #include <Windows.h>
 #endif
 
-#include <stdbool.h>
-#include <io.h>
-#include <time.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <time.h>
 #include <assert.h>
+#include <stdbool.h>
+#include <io.h>
+#include <time.h>
 #include "teamspeak/public_errors.h"
 #include "teamspeak/public_errors_rare.h"
 #include "teamspeak/public_definitions.h"
