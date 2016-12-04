@@ -6,7 +6,8 @@ Most of these Plugins are not mine, I simply updated them to the latest API Vers
 
 Disclamer End. <br><br>
 
-Contact:<br><br>
+Want your Plugin removed? Contact me via:
+<br><br>
 
 Keybase: https://keybase.io/kleberstoff<br>
 Discord: Kleberstoff#5914<br>
