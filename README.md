@@ -2,7 +2,7 @@
 <p size="12">
 Disclaimer! <br><br>
 
-Most of these Plugins are not mine, I simply updated them to the latest API Version from Teamspeak. So I won't guarantee that those work or<br> are in anyway decent commenteed or efficient.<br><br>
+Most of these Plugins are not mine, I simply updated them to the latest API Version from Teamspeak. So I won't guarantee that those work or are in anyway decent commenteed or efficient.<br><br>
 
 Disclamer End. <br><br>
 
