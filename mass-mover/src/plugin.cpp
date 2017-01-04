@@ -30,14 +30,14 @@
 #include <map>
 #include <fstream>
 #include <sstream>
-#include "C:\Users\justa\Desktop\mass-mover api 21\include\teamspeak\public_errors.h"
-#include "C:\Users\justa\Desktop\mass-mover api 21\include\teamspeak\public_errors_rare.h"
-#include "C:\Users\justa\Desktop\mass-mover api 21\include\teamspeak\public_definitions.h"
-#include "C:\Users\justa\Desktop\mass-mover api 21\include\teamspeak\public_rare_definitions.h"
-#include "C:\Users\justa\Desktop\mass-mover api 21\include\teamspeak\clientlib_publicdefinitions.h"
-#include "C:\Users\justa\Desktop\mass-mover api 21\include\ts3_functions.h"
-#include "C:\Users\justa\Desktop\mass-mover api 21\src\plugin.h"
-#include "C:\Users\justa\Desktop\mass-mover api 21\src\pluginversion.h"
+#include "teamspeak/public_errors.h"
+#include "teamspeak/public_errors_rare.h"
+#include "teamspeak/public_definitions.h"
+#include "teamspeak/public_rare_definitions.h"
+#include "teamspeak/clientlib_publicdefinitions.h"
+#include "ts3_functions.h"
+#include "plugin.h"
+#include "pluginversion.h"
 
 static struct TS3Functions ts3Functions;
 
@@ -134,7 +134,7 @@ int ts3plugin_init() {
 	ts3Functions.getAppPath(appPath, PATH_BUFSIZE);
 	ts3Functions.getResourcesPath(resourcesPath, PATH_BUFSIZE);
 	ts3Functions.getConfigPath(configPath, PATH_BUFSIZE);
-	ts3Functions.getPluginPath(pluginPath, PATH_BUFSIZE);
+	ts3Functions.getPluginPath(pluginPath, PATH_BUFSIZE, pluginID);
 
 	printf("TS3MassMover: App path: %s\n\tResources path: %s\n\tConfig path: %s\n\tPlugin path: %s\n", appPath, resourcesPath, configPath, pluginPath);
 #endif
