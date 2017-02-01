@@ -1,1 +1,0 @@
-THIS CONTAINS ALL PLUGIN(x86 & x64 / 32bit & 64bit)
